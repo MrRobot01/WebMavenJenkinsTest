@@ -12,4 +12,5 @@
 
 BUILD CONFIGURATION FOR GITHUB JAVA APPLICATION WITH MAVEN
 
-[source](http://www.bogotobogo.com/DevOps/Jenkins/Jenkins_GitHub_Java_Application_Project_Build_Configuration_Maven.php)
+Source:
+[read here for details](http://www.bogotobogo.com/DevOps/Jenkins/Jenkins_GitHub_Java_Application_Project_Build_Configuration_Maven.php)
