@@ -2,7 +2,7 @@
 
 ---------------------
 
-1) Create a JavaEE app with maven 
+1) git clone https://github.com/Silot/WebMavenJenkinsTest
 
 2) Set up Jenkins
 
